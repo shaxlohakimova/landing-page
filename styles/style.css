@@ -633,4 +633,9 @@ body {
         width: 20px;
         height: 20px;
     }
+    .footer__form input {
+        width: 40%;
+        padding: 10px 10px;
+        font-size: 10px;
+    }
 }
